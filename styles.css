@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Kablammo&display=swap");
+
+h1,
+h2 {
+  font-family: kablammo;
+}
+#quiz-container {
+  width: 50%;
+  margin: 50px autom;
+  padding: 20px;
+  border-radius: 8px;
+}
+#options {
+  display: flex;
+  flex-direction: column;
+}
